@@ -7,3 +7,5 @@ A calculadora foi criada para facilitar a realização de cálculos básicos por
 Esse projeto contribuiu para o aprendizado sobre lógica de programação, manipulação de dados e desenvolvimento de aplicações simples, além de fortalecer a organização do código e a criação de menus interativos.
 
 ![imagem_do_projeto](https://github.com/luizgustavofm09-art/calculadora_python/blob/main/calculadora.png)
+## Conclusão 
+O desenvolvimento da Calculadora em Python foi importante para aprimorar conhecimentos em lógica computacional e operações matemáticas na programação. Através desse projeto, foi possível praticar estruturas condicionais, funções e interação com o usuário, contribuindo para o desenvolvimento de soluções simples, funcionais e organizadas.
