@@ -5,3 +5,5 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais da programaç�
 ## Sobre o Projeto 
 A calculadora foi criada para facilitar a realização de cálculos básicos por meio de um sistema interativo. O programa recebe os valores informados pelo usuário, realiza a operação escolhida e exibe o resultado de forma organizada.
 Esse projeto contribuiu para o aprendizado sobre lógica de programação, manipulação de dados e desenvolvimento de aplicações simples, além de fortalecer a organização do código e a criação de menus interativos.
+
+![imagem_do_projeto](https://github.com/luizgustavofm09-art/calculadora_python/blob/main/calculadora.png)
